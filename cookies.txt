@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+motogo.vn	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_18f03fe122bff14c448511d91a3802cd	%20
+motogo.vn	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_sec_18f03fe122bff14c448511d91a3802cd	%20
+motogo.vn	TRUE	/wp-admin	FALSE	1999999999	wordpress_18f03fe122bff14c448511d91a3802cd	%20
+motogo.vn	TRUE	/wp-admin	FALSE	1999999999	wordpress_sec_18f03fe122bff14c448511d91a3802cd	%20
+motogo.vn	TRUE	/	FALSE	1999999999	wordpress_logged_in_18f03fe122bff14c448511d91a3802cd	%20
+motogo.vn	TRUE	/	FALSE	1999999999	wp-settings-0	%20
+motogo.vn	TRUE	/	FALSE	1999999999	wp-settings-time-0	%20
+motogo.vn	TRUE	/	FALSE	1999999999	wordpress_18f03fe122bff14c448511d91a3802cd	%20
+motogo.vn	TRUE	/	FALSE	1999999999	wordpress_sec_18f03fe122bff14c448511d91a3802cd	%20
+motogo.vn	TRUE	/	FALSE	1999999999	wordpressuser_18f03fe122bff14c448511d91a3802cd	%20
+motogo.vn	TRUE	/	FALSE	1999999999	wordpresspass_18f03fe122bff14c448511d91a3802cd	%20
+motogo.vn	TRUE	/	FALSE	1999999999	wp-postpass_18f03fe122bff14c448511d91a3802cd	%20
+motogo.vn	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+

@@ -1,0 +1,713 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Nov 2024 14:50:34 at https://motogo.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://motogo.vn/ -O1 "D:\TKW2023\motorbike" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:51:17	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://motogo.vn/)
+14:52:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/chuyen-muc/homestay/ (from https://motogo.vn/)
+14:52:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/chuyen-muc/resort/ (from https://motogo.vn/)
+14:52:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/chuyen-muc/xe-khach/ (from https://motogo.vn/)
+14:52:20	Warning: 	Moved Permanently for https://motogo.vn/ninh-binh/
+14:52:20	Warning: 	File has moved from https://motogo.vn/ninh-binh/ to https://motogo.vn/thue-xe-may-ninh-binh/
+14:52:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/thue-xe-may-ha-giang/ (from https://motogo.vn/)
+14:52:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/xe-ha-noi-son-la/ (from https://motogo.vn/)
+14:52:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/thue-xe-may-phan-thiet/ (from https://motogo.vn/)
+14:53:07	Warning: 	Moved Permanently for https://motogo.vn/thue-xe-may-ha-noi/
+14:53:07	Warning: 	File has moved from https://motogo.vn/thue-xe-may-ha-noi/ to https://motogo.vn/thue-xe-may-tai-ha-noi/
+14:53:13	Warning: 	Retry after error -4 (Connect Error) at link https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=746f55f4-0a55-4e71-b6f1-71eb13b40cc2 (from https://motogo.vn/)
+14:53:35	Error: 	"Not Found" (404) at link https://motogo.vn/motogo.vn/wp-content/uploads/2018/07/dropdown-icon-2.png (from https://motogo.vn/wp-content/cache/min/1/bdf9b37ff0b078aabc93bcfd477fa779.css)
+14:54:44	Warning: 	Moved Permanently for https://motogo.vn/?p=6444
+14:54:44	Warning: 	File has moved from https://motogo.vn/?p=6444 to https://motogo.vn/bang-gia-thue-xe-may/
+14:54:44	Warning: 	Moved Permanently for https://motogo.vn/?p=7211
+14:54:44	Warning: 	File has moved from https://motogo.vn/?p=7211 to https://motogo.vn/chinh-sach/
+14:54:44	Warning: 	Moved Permanently for https://motogo.vn/?p=127874
+14:54:44	Warning: 	File has moved from https://motogo.vn/?p=127874 to https://motogo.vn/chinh-sach-khach-hang-than-thiet/
+14:55:23	Warning: 	Moved Permanently for https://motogo.vn/?p=6447
+14:55:23	Warning: 	File has moved from https://motogo.vn/?p=6447 to https://motogo.vn/gioi-thieu/
+14:55:23	Error: 	"Not Found" (404) at link https://motogo.vn/wp-content/themes/motogo/images/about/intergration.png (from https://motogo.vn/gioi-thieu/)
+14:55:23	Warning: 	Moved Permanently for https://motogo.vn/?p=7214
+14:55:23	Warning: 	File has moved from https://motogo.vn/?p=7214 to https://motogo.vn/lien-he/
+14:55:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-content/uploads/2024/06/phuot-da-nang-21-300x188.jpg (from https://motogo.vn/chuyen-muc/kien-thuc-xe-may/)
+14:59:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/chuyen-muc/xe-khach/ (from https://motogo.vn/)
+14:59:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-content/uploads/2023/09/thue-xe-may-ha-noi-MOTOGO-2.jpg (from https://motogo.vn/ha-noi/)
+14:59:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-json/wp/v2/pages/5802 (from https://motogo.vn/ha-noi/)
+14:59:16	Warning: 	Moved Permanently for https://motogo.vn/?p=5802
+14:59:16	Warning: 	File has moved from https://motogo.vn/?p=5802 to https://motogo.vn/ha-noi/
+14:59:30	Warning: 	Moved Permanently for https://motogo.vn/?p=5949
+14:59:30	Warning: 	File has moved from https://motogo.vn/?p=5949 to https://motogo.vn/ha-giang-2/
+14:59:51	Warning: 	Moved Permanently for https://motogo.vn/?p=5943
+14:59:51	Warning: 	File has moved from https://motogo.vn/?p=5943 to https://motogo.vn/ho-chinh-minh/
+14:59:51	Error: 	"Not Found" (404) at link https://motogo.vn/wp-content/uploads/2020/02/myyen97-193528093557-nha-tho-duc-ba.jpg (from https://motogo.vn/ho-chinh-minh/)
+14:59:52	Error: 	"Not Found" (404) at link https://motogo.vn/wp-content/uploads/2020/02/Tòa-nhà-Landmark-81.jpg (from https://motogo.vn/ho-chinh-minh/)
+15:00:18	Warning: 	Moved Permanently for https://motogo.vn/?p=73539
+15:00:18	Warning: 	File has moved from https://motogo.vn/?p=73539 to https://motogo.vn/thue-xe-may-hoi-an/
+15:00:34	Warning: 	Moved Permanently for https://motogo.vn/?p=98331
+15:00:34	Warning: 	File has moved from https://motogo.vn/?p=98331 to https://motogo.vn/thue-xe-may-sai-gon-quan-10/
+15:00:43	Warning: 	Moved Permanently for https://motogo.vn/?p=69863
+15:00:43	Warning: 	File has moved from https://motogo.vn/?p=69863 to https://motogo.vn/homestay-phu-quoc/
+15:03:30	Warning: 	Moved Permanently for https://motogo.vn/?p=13150
+15:03:30	Warning: 	File has moved from https://motogo.vn/?p=13150 to https://motogo.vn/chinh-sach-bao-mat-thong-tin-ca-nhan/
+15:03:30	Warning: 	Moved Permanently for https://motogo.vn/?p=105453
+15:03:30	Warning: 	File has moved from https://motogo.vn/?p=105453 to https://motogo.vn/cua-hang-motogo-1/
+15:03:30	Warning: 	Moved Permanently for https://motogo.vn/?p=8881
+15:03:30	Warning: 	File has moved from https://motogo.vn/?p=8881 to https://motogo.vn/cau-hoi-thuong-gap/
+15:03:30	Warning: 	Moved Permanently for https://motogo.vn/?p=3645
+15:03:30	Warning: 	File has moved from https://motogo.vn/?p=3645 to https://motogo.vn/thue-xe-may-da-nang/
+15:03:44	Warning: 	Retry after error -4 (Connect Error) at link https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=746f55f4-0a55-4e71-b6f1-71eb13b40cc2 (from https://motogo.vn/)
+15:04:34	Warning: 	Moved Permanently for https://motogo.vn/chuyen-muc/thue-xe-may/page/1/
+15:04:34	Warning: 	File has moved from https://motogo.vn/chuyen-muc/thue-xe-may/page/1/ to https://motogo.vn/chuyen-muc/thue-xe-may/
+15:04:37	Warning: 	Moved Permanently for https://motogo.vn/?p=5193
+15:04:37	Warning: 	File has moved from https://motogo.vn/?p=5193 to https://motogo.vn/thue-xe-may-quy-nhon/
+15:04:50	Warning: 	Moved Permanently for https://motogo.vn/?p=11135
+15:04:50	Warning: 	File has moved from https://motogo.vn/?p=11135 to https://motogo.vn/thue-xe-may-tai-sai-gon/
+15:05:08	Warning: 	Moved Permanently for https://motogo.vn/?p=236592
+15:05:08	Warning: 	File has moved from https://motogo.vn/?p=236592 to https://motogo.vn/khach-san-ninh-thuan/
+15:05:08	Warning: 	Moved Permanently for https://motogo.vn/?p=239616
+15:05:08	Warning: 	File has moved from https://motogo.vn/?p=239616 to https://motogo.vn/cac-van-de-hong-hoc-xe-may-thuong-gap-va-cach-khac-phuc/
+15:05:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/cach-xu-ly-khi-xe-may-thue-bi-hong-hoc/ (from https://motogo.vn/cac-van-de-hong-hoc-xe-may-thuong-gap-va-cach-khac-phuc/)
+15:05:14	Warning: 	Moved Permanently for https://motogo.vn/?p=95212
+15:05:14	Warning: 	File has moved from https://motogo.vn/?p=95212 to https://motogo.vn/thue-xe-may-cam-ranh-khanh-hoa/
+15:05:20	Warning: 	Moved Permanently for https://motogo.vn/?p=1690
+15:05:20	Warning: 	File has moved from https://motogo.vn/?p=1690 to https://motogo.vn/thue-xe-may-tai-ha-noi/
+15:05:52	Warning: 	Moved Permanently for https://motogo.vn/?p=5633
+15:05:52	Warning: 	File has moved from https://motogo.vn/?p=5633 to https://motogo.vn/thue-xe-may-quan-son-tra-da-nang/
+15:06:45	Warning: 	Moved Permanently for https://motogo.vn/?p=4592
+15:06:45	Warning: 	File has moved from https://motogo.vn/?p=4592 to https://motogo.vn/thue-xe-may-tai-da-lat/
+15:07:46	Warning: 	Moved Permanently for https://motogo.vn/?p=137414
+15:07:46	Warning: 	File has moved from https://motogo.vn/?p=137414 to https://motogo.vn/xe-ha-noi-quang-ninh/
+15:09:19	Warning: 	Moved Permanently for https://motogo.vn/?p=137934
+15:09:19	Warning: 	File has moved from https://motogo.vn/?p=137934 to https://motogo.vn/xe-ha-noi-da-nang/
+15:10:25	Warning: 	Moved Permanently for https://motogo.vn/chuyen-muc/kien-thuc-xe-may/page/1/
+15:10:25	Warning: 	File has moved from https://motogo.vn/chuyen-muc/kien-thuc-xe-may/page/1/ to https://motogo.vn/chuyen-muc/kien-thuc-xe-may/
+15:10:28	Warning: 	Moved Permanently for https://motogo.vn/?p=248142
+15:10:28	Warning: 	File has moved from https://motogo.vn/?p=248142 to https://motogo.vn/uu-diem-cua-viec-thue-xe-may-o-da-nang/
+15:10:44	Warning: 	Moved Permanently for https://motogo.vn/?p=238225
+15:10:44	Warning: 	File has moved from https://motogo.vn/?p=238225 to https://motogo.vn/nhung-trai-nghiem-doc-dao-khi-di-xe-may-o-ha-noi/
+15:11:10	Warning: 	Moved Permanently for https://motogo.vn/?p=238773
+15:11:10	Warning: 	File has moved from https://motogo.vn/?p=238773 to https://motogo.vn/meo-thue-xe-may-cho-chuyen-di-phuot-dai-tuyet-voi/
+15:11:15	Warning: 	Moved Permanently for https://motogo.vn/?p=238926
+15:11:15	Warning: 	File has moved from https://motogo.vn/?p=238926 to https://motogo.vn/nen-thue-xe-may-hay-su-dung-xe-ca-nhan-khi-di-phuot/
+15:11:15	Warning: 	Moved Permanently for https://motogo.vn/?p=240741
+15:11:15	Warning: 	File has moved from https://motogo.vn/?p=240741 to https://motogo.vn/dich-vu-thue-xe-may-tot-nhat-cho-chay-su-kien/
+15:11:17	Warning: 	Moved Permanently for https://motogo.vn/?p=235935
+15:11:17	Warning: 	File has moved from https://motogo.vn/?p=235935 to https://motogo.vn/loi-ich-cua-thue-xe-may-so-voi-thue-xe-o-to/
+15:11:17	Warning: 	Moved Permanently for https://motogo.vn/?p=238900
+15:11:17	Warning: 	File has moved from https://motogo.vn/?p=238900 to https://motogo.vn/nen-thue-xe-may-hay-mua-xe/
+15:11:17	Warning: 	Moved Permanently for https://motogo.vn/?p=1876
+15:11:17	Warning: 	File has moved from https://motogo.vn/?p=1876 to https://motogo.vn/thue-xe-may-du-lich-bui/
+15:11:17	Warning: 	Moved Permanently for https://motogo.vn/?p=248167
+15:11:17	Warning: 	File has moved from https://motogo.vn/?p=248167 to https://motogo.vn/nhung-sai-lam-thuong-gap-khi-thue-xe-may-o-da-nang/
+15:11:17	Warning: 	Moved Permanently for https://motogo.vn/?p=240840
+15:11:17	Warning: 	File has moved from https://motogo.vn/?p=240840 to https://motogo.vn/cac-giai-dua-xe-may-hang-dau-the-gioi/
+15:11:19	Warning: 	Moved Permanently for https://motogo.vn/?p=240549
+15:11:19	Warning: 	File has moved from https://motogo.vn/?p=240549 to https://motogo.vn/cac-loai-xe-may-phu-hop-de-chay-su-kien/
+15:11:26	Warning: 	Moved Permanently for https://motogo.vn/?p=240548
+15:11:26	Warning: 	File has moved from https://motogo.vn/?p=240548 to https://motogo.vn/cach-tan-dung-dich-vu-cho-thue-xe-may-chay-roadshow-gioi-thieu-san-pham/
+15:13:03	Warning: 	Moved Permanently for https://motogo.vn/chuyen-muc/phuot/page/1/
+15:13:03	Warning: 	File has moved from https://motogo.vn/chuyen-muc/phuot/page/1/ to https://motogo.vn/chuyen-muc/phuot/
+15:13:03	Warning: 	Moved Permanently for https://motogo.vn/?p=238299
+15:13:03	Warning: 	File has moved from https://motogo.vn/?p=238299 to https://motogo.vn/huong-dan-cach-chay-xe-con-tay/
+15:13:03	Warning: 	Moved Permanently for https://motogo.vn/?p=3291
+15:13:03	Warning: 	File has moved from https://motogo.vn/?p=3291 to https://motogo.vn/phuot-bien-gan-ha-noi/
+15:13:03	Warning: 	Moved Permanently for https://motogo.vn/?p=237961
+15:13:03	Warning: 	File has moved from https://motogo.vn/?p=237961 to https://motogo.vn/lich-trinh-kham-pha-ha-noi-1-ngay-bang-xe-may/
+15:13:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmotogo.vn%2Flich-trinh-kham-pha-ha-noi-1-ngay-bang-xe-may%2F (from https://motogo.vn/lich-trinh-kham-pha-ha-noi-1-ngay-bang-xe-may/)
+15:13:06	Warning: 	Moved Permanently for https://motogo.vn/?p=2295
+15:13:06	Warning: 	File has moved from https://motogo.vn/?p=2295 to https://motogo.vn/di-du-lich-ha-noi-can-chuan-bi-gi/
+15:13:21	Warning: 	Moved Permanently for https://motogo.vn/?p=3211
+15:13:21	Warning: 	File has moved from https://motogo.vn/?p=3211 to https://motogo.vn/phuot-thu/
+15:13:29	Warning: 	Moved Permanently for https://motogo.vn/?p=248379
+15:13:29	Warning: 	File has moved from https://motogo.vn/?p=248379 to https://motogo.vn/lua-chon-loai-xe-may-phu-hop-voi-nhu-cau-di-lai-tai-da-nang/
+15:13:29	Warning: 	Moved Permanently for https://motogo.vn/?p=248320
+15:13:29	Warning: 	File has moved from https://motogo.vn/?p=248320 to https://motogo.vn/dia-diem-tham-quan-ly-tuong-tai-da-nang-cho-chuyen-du-lich-bang-xe-may/
+15:13:29	Warning: 	Moved Permanently for https://motogo.vn/?p=248193
+15:13:29	Warning: 	File has moved from https://motogo.vn/?p=248193 to https://motogo.vn/kham-pha-da-nang-2-ngay-1-dem-bang-xe-may/
+15:13:29	Warning: 	Moved Permanently for https://motogo.vn/?p=248126
+15:13:29	Warning: 	File has moved from https://motogo.vn/?p=248126 to https://motogo.vn/dia-diem-tham-quan-bang-xe-may-o-da-nang/
+15:13:29	Warning: 	Moved Permanently for https://motogo.vn/?p=3124
+15:13:29	Warning: 	File has moved from https://motogo.vn/?p=3124 to https://motogo.vn/nen-chon-sirius-hay-wave-alpha-2024/
+15:13:30	Warning: 	Moved Permanently for https://motogo.vn/?p=240233
+15:13:30	Warning: 	File has moved from https://motogo.vn/?p=240233 to https://motogo.vn/cung-duong-phuot-xe-may-dep-nhat-mien-bac/
+15:13:43	Warning: 	Moved Permanently for https://motogo.vn/?p=240112
+15:13:43	Warning: 	File has moved from https://motogo.vn/?p=240112 to https://motogo.vn/cung-duong-phuot-xe-may-dep-nhat-mien-nam/
+15:14:17	Warning: 	Moved Permanently for https://motogo.vn/phuot-gan-ha-noi/
+15:14:17	Warning: 	File has moved from https://motogo.vn/phuot-gan-ha-noi/ to https://motogo.vn/phuot-bien-gan-ha-noi/
+15:15:57	Warning: 	Moved Permanently for https://motogo.vn/chuyen-muc/du-lich/page/1/
+15:15:57	Warning: 	File has moved from https://motogo.vn/chuyen-muc/du-lich/page/1/ to https://motogo.vn/chuyen-muc/du-lich/
+15:16:00	Warning: 	Moved Permanently for https://motogo.vn/?p=51476
+15:16:00	Warning: 	File has moved from https://motogo.vn/?p=51476 to https://motogo.vn/dam-van-long/
+15:16:27	Warning: 	Moved Permanently for https://motogo.vn/?p=51716
+15:16:27	Warning: 	File has moved from https://motogo.vn/?p=51716 to https://motogo.vn/vam-sat-can-gio/
+15:16:48	Warning: 	Moved Permanently for https://motogo.vn/?p=51697
+15:16:48	Warning: 	File has moved from https://motogo.vn/?p=51697 to https://motogo.vn/du-lich-lang-co-duong-lam/
+15:16:51	Warning: 	Moved Permanently for https://motogo.vn/?p=3511
+15:16:51	Warning: 	File has moved from https://motogo.vn/?p=3511 to https://motogo.vn/du-lich-ba-vi/
+15:17:16	Warning: 	Moved Permanently for https://motogo.vn/?p=48814
+15:17:16	Warning: 	File has moved from https://motogo.vn/?p=48814 to https://motogo.vn/moc-chau-co-gi-dep/
+15:17:47	Warning: 	Moved Permanently for https://motogo.vn/?p=22765
+15:17:47	Warning: 	File has moved from https://motogo.vn/?p=22765 to https://motogo.vn/bai-bien-nha-trang/
+15:17:47	Warning: 	Moved Permanently for https://motogo.vn/?p=57774
+15:17:47	Warning: 	File has moved from https://motogo.vn/?p=57774 to https://motogo.vn/chua-ve-chai/
+15:18:08	Warning: 	Moved Permanently for https://motogo.vn/?p=58322
+15:18:08	Warning: 	File has moved from https://motogo.vn/?p=58322 to https://motogo.vn/cong-troi-da-lat/
+15:18:24	Warning: 	Moved Permanently for https://motogo.vn/?p=2251
+15:18:24	Warning: 	File has moved from https://motogo.vn/?p=2251 to https://motogo.vn/du-lich-quanh-ha-noi-3-ngay-2-dem/
+15:18:34	Warning: 	Moved Permanently for https://motogo.vn/thue-xe-may-gia-re-o-ha-noi/
+15:18:34	Warning: 	File has moved from https://motogo.vn/thue-xe-may-gia-re-o-ha-noi/ to https://motogo.vn/thue-xe-may-tai-ha-noi/
+15:18:38	Warning: 	Moved Permanently for https://motogo.vn/top-5-dia-diem-du-lich-gan-ha-noi-gia-re-cuc-hap-dan/
+15:18:38	Warning: 	File has moved from https://motogo.vn/top-5-dia-diem-du-lich-gan-ha-noi-gia-re-cuc-hap-dan/ to https://motogo.vn/dia-diem-du-lich-gan-ha-noi/
+15:18:38	Warning: 	Moved Permanently for https://motogo.vn/?p=2182
+15:18:38	Warning: 	File has moved from https://motogo.vn/?p=2182 to https://motogo.vn/du-lich-lang-man-cho-2-nguoi-gan-ha-noi/
+15:18:42	Warning: 	Moved Permanently for https://motogo.vn/du-lich-gan-ha-noi/
+15:18:42	Warning: 	File has moved from https://motogo.vn/du-lich-gan-ha-noi/ to https://motogo.vn/dia-diem-du-lich-gan-ha-noi/
+15:18:46	Warning: 	Moved Permanently for https://motogo.vn/?p=2150
+15:18:46	Warning: 	File has moved from https://motogo.vn/?p=2150 to https://motogo.vn/du-lich-quanh-ha-noi-gia-re/
+15:18:48	Warning: 	Moved Permanently for https://motogo.vn/?p=95000
+15:18:48	Warning: 	File has moved from https://motogo.vn/?p=95000 to https://motogo.vn/canh-dep-da-lat/
+15:20:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-content/uploads/2020/02/foody-reaching-out-tea-house-947-636450028023415851-225x300.jpg (from https://motogo.vn/chuyen-muc/du-lich/page/26/)
+15:22:34	Warning: 	Moved Permanently for https://motogo.vn/?p=1791
+15:22:34	Warning: 	File has moved from https://motogo.vn/?p=1791 to https://motogo.vn/thue-xe-may-hoan-kiem/
+15:22:51	Warning: 	Moved Permanently for https://motogo.vn/?p=235945
+15:22:51	Warning: 	File has moved from https://motogo.vn/?p=235945 to https://motogo.vn/thu-tuc-thue-xe-may/
+15:22:51	Warning: 	Moved Permanently for https://motogo.vn/?p=235543
+15:22:51	Warning: 	File has moved from https://motogo.vn/?p=235543 to https://motogo.vn/tai-sao-thue-xe-may-la-cach-tuyet-voi-nhat-de-kham-pha-ha-noi/
+15:22:51	Warning: 	Moved Permanently for https://motogo.vn/?p=235535
+15:22:51	Warning: 	File has moved from https://motogo.vn/?p=235535 to https://motogo.vn/yeu-to-can-biet-de-lua-chon-duoc-dich-vu-thue-xe-may-uy-tin/
+15:22:53	Warning: 	Moved Permanently for https://motogo.vn/?p=2549
+15:22:53	Warning: 	File has moved from https://motogo.vn/?p=2549 to https://motogo.vn/do-deo-bang-xe-tay-ga/
+15:22:53	Warning: 	Moved Permanently for https://motogo.vn/?p=49235
+15:22:53	Warning: 	File has moved from https://motogo.vn/?p=49235 to https://motogo.vn/dong-van-ha-giang/
+15:23:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-content/uploads/2020/07/thue-xe-may-ha-giang.jpg (from https://motogo.vn/phuot-ha-giang/)
+15:23:29	Warning: 	Moved Permanently for https://motogo.vn/?p=60955
+15:23:29	Warning: 	File has moved from https://motogo.vn/?p=60955 to https://motogo.vn/phuot-ha-giang/
+15:23:35	Error: 	"Not Found" (404) at link https://motogo.vn/wp-content/uploads/2020/04/lũng-cú-min.jpg (from https://motogo.vn/phuot-ha-giang/)
+15:23:35	Warning: 	Moved Permanently for https://motogo.vn/?p=4570
+15:23:35	Warning: 	File has moved from https://motogo.vn/?p=4570 to https://motogo.vn/thue-xe-may-ninh-binh/
+15:23:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/thue-xe-may-hai-duong/ (from https://motogo.vn/thue-xe-may-ninh-binh/)
+15:23:39	Warning: 	Moved Permanently for https://motogo.vn/?p=4508
+15:23:39	Warning: 	File has moved from https://motogo.vn/?p=4508 to https://motogo.vn/thue-xe-may-ha-giang/
+15:24:08	Warning: 	Moved Permanently for https://motogo.vn/?p=140143
+15:24:08	Warning: 	File has moved from https://motogo.vn/?p=140143 to https://motogo.vn/xe-ha-noi-son-la/
+15:24:56	Warning: 	Moved Permanently for https://motogo.vn/?p=58071
+15:24:56	Warning: 	File has moved from https://motogo.vn/?p=58071 to https://motogo.vn/thue-xe-may-phan-thiet/
+15:24:58	Warning: 	Moved Permanently for https://motogo.vn/?p=4700
+15:24:58	Warning: 	File has moved from https://motogo.vn/?p=4700 to https://motogo.vn/thue-xe-may-tai-hue/
+15:24:58	Warning: 	Moved Permanently for https://motogo.vn/?p=99476
+15:24:58	Warning: 	File has moved from https://motogo.vn/?p=99476 to https://motogo.vn/thue-xe-may-quang-tri/
+15:24:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmotogo.vn%2Fthue-xe-may-quang-tri%2F (from https://motogo.vn/thue-xe-may-quang-tri/)
+15:24:58	Warning: 	Moved Permanently for https://motogo.vn/?p=95529
+15:24:58	Warning: 	File has moved from https://motogo.vn/?p=95529 to https://motogo.vn/thue-xe-may-o-vinh/
+15:24:58	Warning: 	Moved Permanently for https://motogo.vn/?p=57600
+15:24:58	Warning: 	File has moved from https://motogo.vn/?p=57600 to https://motogo.vn/thue-xe-may-quang-binh/
+15:25:02	Warning: 	Moved Permanently for https://motogo.vn/?p=98875
+15:25:02	Warning: 	File has moved from https://motogo.vn/?p=98875 to https://motogo.vn/thue-xe-may-san-bay-chu-lai/
+15:25:02	Warning: 	Moved Permanently for https://motogo.vn/?p=98356
+15:25:02	Warning: 	File has moved from https://motogo.vn/?p=98356 to https://motogo.vn/thue-xe-may-sai-gon-quan-3/
+15:25:02	Warning: 	Moved Permanently for https://motogo.vn/?p=102596
+15:25:02	Warning: 	File has moved from https://motogo.vn/?p=102596 to https://motogo.vn/cho-thue-xe-may-sai-gon-quan-1/
+15:25:02	Warning: 	Moved Permanently for https://motogo.vn/?p=98284
+15:25:02	Warning: 	File has moved from https://motogo.vn/?p=98284 to https://motogo.vn/thue-xe-may-trung-tam-sai-gon/
+15:25:02	Warning: 	Moved Permanently for https://motogo.vn/?p=98464
+15:25:02	Warning: 	File has moved from https://motogo.vn/?p=98464 to https://motogo.vn/thue-xe-may-sai-gon-quan-5/
+15:25:02	Warning: 	Moved Permanently for https://motogo.vn/?p=184908
+15:25:02	Warning: 	File has moved from https://motogo.vn/?p=184908 to https://motogo.vn/homestay-kien-giang/
+15:25:22	Warning: 	Moved Permanently for https://motogo.vn/?p=72906
+15:25:22	Warning: 	File has moved from https://motogo.vn/?p=72906 to https://motogo.vn/homestay-hon-son/
+15:25:38	Warning: 	Moved Permanently for https://motogo.vn/?p=185959
+15:25:38	Warning: 	File has moved from https://motogo.vn/?p=185959 to https://motogo.vn/homestay-phu-quoc-gan-bien/
+15:25:53	Warning: 	Moved Permanently for https://motogo.vn/?p=72951
+15:25:53	Warning: 	File has moved from https://motogo.vn/?p=72951 to https://motogo.vn/homestay-nam-du/
+15:26:00	Warning: 	Moved Permanently for https://motogo.vn/?p=69040
+15:26:00	Warning: 	File has moved from https://motogo.vn/?p=69040 to https://motogo.vn/homestay-phu-yen/
+15:26:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-content/uploads/2021/06/homestay-phu-yen-23-2.jpg (from https://motogo.vn/homestay-phu-yen/)
+15:26:32	Warning: 	Moved Permanently for https://motogo.vn/?p=185053
+15:26:32	Warning: 	File has moved from https://motogo.vn/?p=185053 to https://motogo.vn/homestay-phan-thiet-binh-thuan/
+15:26:37	Warning: 	Moved Permanently for https://motogo.vn/?p=183838
+15:26:37	Warning: 	File has moved from https://motogo.vn/?p=183838 to https://motogo.vn/homestay-phu-yen-view-bien/
+15:26:37	Warning: 	Moved Permanently for https://motogo.vn/?p=78942
+15:26:37	Warning: 	File has moved from https://motogo.vn/?p=78942 to https://motogo.vn/homestay-tuy-hoa/
+15:26:46	Warning: 	Moved Permanently for https://motogo.vn/?p=69551
+15:26:46	Warning: 	File has moved from https://motogo.vn/?p=69551 to https://motogo.vn/homestay-mui-ne/
+15:26:53	Warning: 	Moved Permanently for https://motogo.vn/?p=185054
+15:26:53	Warning: 	File has moved from https://motogo.vn/?p=185054 to https://motogo.vn/homestay-dao-phu-quy-binh-thuan/
+15:27:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-content/uploads/2023/04/homestay-long-hai5.jpg (from https://motogo.vn/homestay-long-hai/)
+15:27:03	Warning: 	Moved Permanently for https://motogo.vn/?p=184668
+15:27:03	Warning: 	File has moved from https://motogo.vn/?p=184668 to https://motogo.vn/homestay-long-hai/
+15:27:03	Warning: 	Moved Permanently for https://motogo.vn/?p=66857
+15:27:03	Warning: 	File has moved from https://motogo.vn/?p=66857 to https://motogo.vn/homestay-vung-tau/
+15:27:03	Warning: 	Moved Permanently for https://motogo.vn/?p=65899
+15:27:03	Warning: 	File has moved from https://motogo.vn/?p=65899 to https://motogo.vn/homestay-sa-pa/
+15:27:56	Warning: 	Moved Permanently for https://motogo.vn/?p=177082
+15:27:56	Warning: 	File has moved from https://motogo.vn/?p=177082 to https://motogo.vn/homestay-ba-vi-cap-doi/
+15:28:08	Warning: 	Moved Permanently for https://motogo.vn/?p=179326
+15:28:08	Warning: 	File has moved from https://motogo.vn/?p=179326 to https://motogo.vn/homestay-nam-dip/
+15:29:32	Warning: 	Moved Permanently for https://motogo.vn/?p=191178
+15:29:32	Warning: 	File has moved from https://motogo.vn/?p=191178 to https://motogo.vn/homestay-hon-kho/
+15:29:44	Warning: 	Moved Permanently for https://motogo.vn/?p=70211
+15:29:44	Warning: 	File has moved from https://motogo.vn/?p=70211 to https://motogo.vn/homestay-hoi-an/
+15:30:15	Warning: 	Moved Permanently for https://motogo.vn/?p=177319
+15:30:15	Warning: 	File has moved from https://motogo.vn/?p=177319 to https://motogo.vn/homestay-ho-dong-quan/
+15:30:53	Warning: 	Moved Permanently for https://motogo.vn/?p=79108
+15:30:53	Warning: 	File has moved from https://motogo.vn/?p=79108 to https://motogo.vn/homestay-quang-ngai/
+15:31:07	Warning: 	Moved Permanently for https://motogo.vn/?p=49306
+15:31:07	Warning: 	File has moved from https://motogo.vn/?p=49306 to https://motogo.vn/homestay-ha-giang/
+15:31:36	Warning: 	Moved Permanently for https://motogo.vn/?p=98165
+15:31:36	Warning: 	File has moved from https://motogo.vn/?p=98165 to https://motogo.vn/thue-xe-may-san-bay-da-nang/
+15:31:37	Warning: 	Moved Permanently for https://motogo.vn/?p=98208
+15:31:37	Warning: 	File has moved from https://motogo.vn/?p=98208 to https://motogo.vn/thue-xe-may-da-nang-quan-lien-chieu/
+15:31:37	Warning: 	Moved Permanently for https://motogo.vn/?p=98178
+15:31:37	Warning: 	File has moved from https://motogo.vn/?p=98178 to https://motogo.vn/thue-xe-may-da-nang-quan-thanh-khe/
+15:31:37	Warning: 	Moved Permanently for https://motogo.vn/?p=5606
+15:31:37	Warning: 	File has moved from https://motogo.vn/?p=5606 to https://motogo.vn/thue-xe-may-da-nang-quan-ngu-hanh-son/
+15:31:37	Warning: 	Moved Permanently for https://motogo.vn/?p=98170
+15:31:37	Warning: 	File has moved from https://motogo.vn/?p=98170 to https://motogo.vn/thue-xe-may-da-nang-quan-hai-chau/
+15:31:37	Error: 	"Connect Error" (-4) after 2 retries at link https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=746f55f4-0a55-4e71-b6f1-71eb13b40cc2 (from https://motogo.vn/)
+15:31:37	Warning: 	Moved Permanently for https://motogo.vn/?p=239653
+15:31:37	Warning: 	File has moved from https://motogo.vn/?p=239653 to https://motogo.vn/nhung-uu-diem-cua-viec-thue-xe-may-di-du-lich/
+15:31:40	Warning: 	Moved Permanently for https://motogo.vn/?p=4853
+15:31:40	Warning: 	File has moved from https://motogo.vn/?p=4853 to https://motogo.vn/thue-xe-may-phu-quoc/
+15:32:22	Warning: 	Moved Permanently for https://motogo.vn/?p=4737
+15:32:22	Warning: 	File has moved from https://motogo.vn/?p=4737 to https://motogo.vn/thue-xe-may-vung-tau/
+15:32:49	Warning: 	Moved Permanently for https://motogo.vn/?p=99075
+15:32:49	Warning: 	File has moved from https://motogo.vn/?p=99075 to https://motogo.vn/thue-xe-may-dak-nong/
+15:32:52	Warning: 	Moved Permanently for https://motogo.vn/?p=57556
+15:32:52	Warning: 	File has moved from https://motogo.vn/?p=57556 to https://motogo.vn/thue-xe-may-phu-yen/
+15:32:52	Warning: 	Moved Permanently for https://motogo.vn/?p=1836
+15:32:52	Warning: 	File has moved from https://motogo.vn/?p=1836 to https://motogo.vn/thue-xe-may-hai-ba-trung/
+15:33:00	Warning: 	Moved Permanently for https://motogo.vn/?p=1799
+15:33:00	Warning: 	File has moved from https://motogo.vn/?p=1799 to https://motogo.vn/thue-xe-may-my-dinh/
+15:33:07	Warning: 	Moved Permanently for https://motogo.vn/thue-xe-may-theo-thang/
+15:33:07	Warning: 	File has moved from https://motogo.vn/thue-xe-may-theo-thang/ to https://motogo.vn/thue-xe-may-tai-ha-noi/
+15:33:16	Warning: 	Moved Permanently for https://motogo.vn/?p=101087
+15:33:16	Warning: 	File has moved from https://motogo.vn/?p=101087 to https://motogo.vn/thue-xe-may-flc-quy-nhon/
+15:33:16	Warning: 	Moved Permanently for https://motogo.vn/?p=11144
+15:33:16	Warning: 	File has moved from https://motogo.vn/?p=11144 to https://motogo.vn/thue-xe-may-nha-trang/
+15:33:16	Warning: 	Moved Permanently for https://motogo.vn/?p=98651
+15:33:16	Warning: 	File has moved from https://motogo.vn/?p=98651 to https://motogo.vn/thue-xe-may-san-bay-phu-cat/
+15:33:16	Warning: 	Moved Permanently for https://motogo.vn/?p=99010
+15:33:16	Warning: 	File has moved from https://motogo.vn/?p=99010 to https://motogo.vn/thue-xe-may-tai-binh-duong/
+15:33:18	Warning: 	Moved Permanently for https://motogo.vn/?p=98505
+15:33:18	Warning: 	File has moved from https://motogo.vn/?p=98505 to https://motogo.vn/thue-xe-may-gan-san-bay-tan-son-nhat/
+15:33:18	Warning: 	Moved Permanently for https://motogo.vn/?p=98536
+15:33:18	Warning: 	File has moved from https://motogo.vn/?p=98536 to https://motogo.vn/dia-chi-cho-thue-xe-may-quan-7/
+15:33:18	Warning: 	Moved Permanently for https://motogo.vn/?p=98355
+15:33:18	Warning: 	File has moved from https://motogo.vn/?p=98355 to https://motogo.vn/thue-xe-may-sai-gon-tan-binh/
+15:33:18	Warning: 	Moved Permanently for https://motogo.vn/?p=98466
+15:33:18	Warning: 	File has moved from https://motogo.vn/?p=98466 to https://motogo.vn/thue-xe-may-sai-gon-binh-thanh/
+15:33:18	Warning: 	Moved Permanently for https://motogo.vn/?p=95475
+15:33:18	Warning: 	File has moved from https://motogo.vn/?p=95475 to https://motogo.vn/thue-xe-may-bac-lieu/
+15:33:22	Warning: 	Moved Permanently for https://motogo.vn/?p=99691
+15:33:22	Warning: 	File has moved from https://motogo.vn/?p=99691 to https://motogo.vn/thue-xe-may-dong-thap/
+15:33:25	Warning: 	Moved Permanently for https://motogo.vn/?p=236595
+15:33:25	Warning: 	File has moved from https://motogo.vn/?p=236595 to https://motogo.vn/bao-duong-xe-may-truoc-khi-di-phuot/
+15:33:25	Warning: 	Moved Permanently for https://motogo.vn/?p=239337
+15:33:25	Warning: 	File has moved from https://motogo.vn/?p=239337 to https://motogo.vn/bo-dung-cu-sua-chua-xe-may-di-phuot-gom-co-gi/
+15:33:27	Warning: 	Moved Permanently for https://motogo.vn/?p=95407
+15:33:27	Warning: 	File has moved from https://motogo.vn/?p=95407 to https://motogo.vn/thue-xe-may-con-dao/
+15:33:27	Warning: 	Moved Permanently for https://motogo.vn/?p=99304
+15:33:27	Warning: 	File has moved from https://motogo.vn/?p=99304 to https://motogo.vn/thue-xe-may-tai-san-bay-nha-trang/
+15:33:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/?p=239288 (from https://motogo.vn/cac-phu-kien-an-toan-can-co-cho-xe-may-di-phuot/)
+15:33:27	Warning: 	Moved Permanently for https://motogo.vn/?p=238008
+15:33:27	Warning: 	File has moved from https://motogo.vn/?p=238008 to https://motogo.vn/ky-thuat-phanh-xe-may-dung-cach/
+15:33:30	Warning: 	Moved Permanently for https://motogo.vn/?p=238350
+15:33:30	Warning: 	File has moved from https://motogo.vn/?p=238350 to https://motogo.vn/kham-pha-pho-co-ha-noi-bang-xe-may/
+15:33:30	Warning: 	Moved Permanently for https://motogo.vn/?p=56958
+15:33:30	Warning: 	File has moved from https://motogo.vn/?p=56958 to https://motogo.vn/du-lich-ha-noi/
+15:33:34	Warning: 	Moved Permanently for https://motogo.vn/?p=238927
+15:33:34	Warning: 	File has moved from https://motogo.vn/?p=238927 to https://motogo.vn/nhung-chieu-lua-dao-cho-thue-xe-may-pho-bien-can-tranh/
+15:33:36	Warning: 	Moved Permanently for https://motogo.vn/?p=238769
+15:33:36	Warning: 	File has moved from https://motogo.vn/?p=238769 to https://motogo.vn/hop-dong-va-bao-hiem-thue-xe-may/
+15:33:36	Warning: 	Moved Permanently for https://motogo.vn/?p=238771
+15:33:36	Warning: 	File has moved from https://motogo.vn/?p=238771 to https://motogo.vn/chinh-sach-huy-va-hoan-tien-khi-thue-may/
+15:33:36	Warning: 	Moved Permanently for https://motogo.vn/?p=238527
+15:33:36	Warning: 	File has moved from https://motogo.vn/?p=238527 to https://motogo.vn/thue-xe-may-vi-pham-giao-thong-ai-chiu-trach-nhiem/
+15:33:36	Warning: 	Moved Permanently for https://motogo.vn/?p=238633
+15:33:36	Warning: 	File has moved from https://motogo.vn/?p=238633 to https://motogo.vn/nhung-loi-vi-pham-giao-thong-pho-bien-cua-khach-du-lich-di-xe-may-o-ha-noi/
+15:33:36	Warning: 	Moved Permanently for https://motogo.vn/?p=238611
+15:33:36	Warning: 	File has moved from https://motogo.vn/?p=238611 to https://motogo.vn/nhung-moi-nguy-hiem-thuong-gap-va-cach-phong-tranh-khi-di-xe-may-o-ha-noi/
+15:33:38	Warning: 	Moved Permanently for https://motogo.vn/?p=1715
+15:33:38	Warning: 	File has moved from https://motogo.vn/?p=1715 to https://motogo.vn/thue-xe-may-cau-giay-ha-noi/
+15:33:40	Warning: 	Moved Permanently for https://motogo.vn/?p=99715
+15:33:40	Warning: 	File has moved from https://motogo.vn/?p=99715 to https://motogo.vn/thue-xe-may-bac-giang/
+15:33:41	Warning: 	Moved Permanently for https://motogo.vn/?p=99170
+15:33:41	Warning: 	File has moved from https://motogo.vn/?p=99170 to https://motogo.vn/thue-xe-may-dien-bien/
+15:33:44	Warning: 	Moved Permanently for https://motogo.vn/?p=98898
+15:33:44	Warning: 	File has moved from https://motogo.vn/?p=98898 to https://motogo.vn/thue-xe-may-o-san-bay-phu-bai/
+15:33:44	Warning: 	Moved Permanently for https://motogo.vn/?p=99126
+15:33:44	Warning: 	File has moved from https://motogo.vn/?p=99126 to https://motogo.vn/thue-xe-may-yen-bai/
+15:33:44	Warning: 	Moved Permanently for https://motogo.vn/?p=100444
+15:33:44	Warning: 	File has moved from https://motogo.vn/?p=100444 to https://motogo.vn/thue-xe-may-binh-phuoc/
+15:34:04	Warning: 	Moved Permanently for https://motogo.vn/?p=95300
+15:34:04	Warning: 	File has moved from https://motogo.vn/?p=95300 to https://motogo.vn/thue-xe-may-pleiku/
+15:34:04	Warning: 	Moved Permanently for https://motogo.vn/?p=99487
+15:34:04	Warning: 	File has moved from https://motogo.vn/?p=99487 to https://motogo.vn/thue-xe-may-tam-ky-quang-nam/
+15:34:04	Warning: 	Moved Permanently for https://motogo.vn/?p=100706
+15:34:04	Warning: 	File has moved from https://motogo.vn/?p=100706 to https://motogo.vn/thue-xe-may-hung-yen/
+15:34:06	Warning: 	Moved Permanently for https://motogo.vn/?p=101679
+15:34:06	Warning: 	File has moved from https://motogo.vn/?p=101679 to https://motogo.vn/thue-xe-may-tai-bac-ninh/
+15:34:08	Warning: 	Moved Permanently for https://motogo.vn/?p=99183
+15:34:08	Warning: 	File has moved from https://motogo.vn/?p=99183 to https://motogo.vn/thue-xe-may-phan-rang-ninh-thuan/
+15:34:08	Warning: 	Moved Permanently for https://motogo.vn/?p=99594
+15:34:08	Warning: 	File has moved from https://motogo.vn/?p=99594 to https://motogo.vn/thue-xe-may-vinh-long/
+15:34:11	Warning: 	Moved Permanently for https://motogo.vn/?p=99581
+15:34:11	Warning: 	File has moved from https://motogo.vn/?p=99581 to https://motogo.vn/thue-xe-may-an-giang/
+15:34:14	Warning: 	Moved Permanently for https://motogo.vn/?p=99377
+15:34:14	Warning: 	File has moved from https://motogo.vn/?p=99377 to https://motogo.vn/thue-xe-may-o-san-bay-lien-khuong-da-lat/
+15:34:14	Warning: 	Moved Permanently for https://motogo.vn/?p=95214
+15:34:14	Warning: 	File has moved from https://motogo.vn/?p=95214 to https://motogo.vn/thue-xe-may-moc-chau/
+15:34:16	Warning: 	Moved Permanently for https://motogo.vn/?p=95370
+15:34:16	Warning: 	File has moved from https://motogo.vn/?p=95370 to https://motogo.vn/thue-xe-may-bien-hoa/
+15:34:16	Warning: 	Moved Permanently for https://motogo.vn/?p=95431
+15:34:16	Warning: 	File has moved from https://motogo.vn/?p=95431 to https://motogo.vn/thue-xe-may-ca-mau/
+15:34:16	Warning: 	Moved Permanently for https://motogo.vn/?p=8682
+15:34:16	Warning: 	File has moved from https://motogo.vn/?p=8682 to https://motogo.vn/thue-xe-may-da-nang-gia-huy/
+15:34:27	Warning: 	Moved Permanently for https://motogo.vn/?p=94918
+15:34:27	Warning: 	File has moved from https://motogo.vn/?p=94918 to https://motogo.vn/du-lich-da-lat-tu-tuc/
+15:35:01	Warning: 	Moved Permanently for https://motogo.vn/?p=50921
+15:35:01	Warning: 	File has moved from https://motogo.vn/?p=50921 to https://motogo.vn/dia-diem-du-lich-da-lat/
+15:35:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-content/uploads/2020/02/dia-diem-du-lich-da-lat-5.jpg (from https://motogo.vn/dia-diem-du-lich-da-lat/)
+15:35:08	Warning: 	Moved Permanently for https://motogo.vn/?p=94953
+15:35:08	Warning: 	File has moved from https://motogo.vn/?p=94953 to https://motogo.vn/ban-do-du-lich-da-lat/
+15:35:08	Warning: 	Moved Permanently for https://motogo.vn/?p=95502
+15:35:08	Warning: 	File has moved from https://motogo.vn/?p=95502 to https://motogo.vn/thue-xe-may-kon-tum/
+15:35:12	Warning: 	Moved Permanently for https://motogo.vn/?p=95728
+15:35:12	Warning: 	File has moved from https://motogo.vn/?p=95728 to https://motogo.vn/vuon-dau-da-lat/
+15:35:19	Warning: 	Moved Permanently for https://motogo.vn/?p=50569
+15:35:19	Warning: 	File has moved from https://motogo.vn/?p=50569 to https://motogo.vn/di-da-lat-mua-nao-dep/
+15:35:19	Warning: 	Moved Permanently for https://motogo.vn/?p=50557
+15:35:19	Warning: 	File has moved from https://motogo.vn/?p=50557 to https://motogo.vn/di-da-lat-mac-gi/
+15:35:19	Warning: 	Moved Permanently for https://motogo.vn/?p=95095
+15:35:19	Warning: 	File has moved from https://motogo.vn/?p=95095 to https://motogo.vn/da-lat-ve-dem/
+15:35:19	Warning: 	Moved Permanently for https://motogo.vn/?p=50422
+15:35:19	Warning: 	File has moved from https://motogo.vn/?p=50422 to https://motogo.vn/ho-xuan-huong-da-lat/
+15:35:34	Warning: 	Moved Permanently for https://motogo.vn/?p=50623
+15:35:34	Warning: 	File has moved from https://motogo.vn/?p=50623 to https://motogo.vn/bar-da-lat/
+15:35:34	Warning: 	Moved Permanently for https://motogo.vn/?p=174755
+15:35:34	Warning: 	File has moved from https://motogo.vn/?p=174755 to https://motogo.vn/xe-limousine-ha-noi-quang-ninh/
+15:36:28	Warning: 	Moved Permanently for https://motogo.vn/?p=138122
+15:36:28	Warning: 	File has moved from https://motogo.vn/?p=138122 to https://motogo.vn/xe-ha-noi-hai-phong/
+15:36:34	Warning: 	Moved Permanently for https://motogo.vn/?p=139193
+15:36:34	Warning: 	File has moved from https://motogo.vn/?p=139193 to https://motogo.vn/xe-ha-noi-thai-binh/
+15:36:54	Warning: 	Moved Permanently for https://motogo.vn/xe-khach-ha-noi-ha-giang/
+15:36:54	Warning: 	File has moved from https://motogo.vn/xe-khach-ha-noi-ha-giang/ to https://motogo.vn/xe-ha-noi-ha-giang/
+15:37:04	Warning: 	Moved Permanently for https://motogo.vn/?p=73402
+15:37:04	Warning: 	File has moved from https://motogo.vn/?p=73402 to https://motogo.vn/thue-xe-may-ha-long/
+15:37:04	Warning: 	Moved Permanently for https://motogo.vn/?p=138665
+15:37:04	Warning: 	File has moved from https://motogo.vn/?p=138665 to https://motogo.vn/xe-gia-lam-hai-phong/
+15:37:17	Warning: 	Moved Permanently for https://motogo.vn/?p=138931
+15:37:17	Warning: 	File has moved from https://motogo.vn/?p=138931 to https://motogo.vn/xe-ha-noi-cat-ba/
+15:37:24	Warning: 	Moved Permanently for https://motogo.vn/?p=95861
+15:37:24	Warning: 	File has moved from https://motogo.vn/?p=95861 to https://motogo.vn/xe-ha-noi-ha-giang/
+15:37:42	Warning: 	Moved Permanently for https://motogo.vn/?p=139487
+15:37:42	Warning: 	File has moved from https://motogo.vn/?p=139487 to https://motogo.vn/xe-ha-noi-hue/
+15:37:44	Warning: 	Moved Permanently for https://motogo.vn/?p=139264
+15:37:44	Warning: 	File has moved from https://motogo.vn/?p=139264 to https://motogo.vn/xe-ha-noi-vinh-nghe-an/
+15:37:47	Warning: 	Moved Permanently for https://motogo.vn/?p=138667
+15:37:47	Warning: 	File has moved from https://motogo.vn/?p=138667 to https://motogo.vn/xe-ha-noi-ninh-binh/
+15:38:05	Warning: 	Moved Permanently for https://motogo.vn/?p=175097
+15:38:05	Warning: 	File has moved from https://motogo.vn/?p=175097 to https://motogo.vn/xe-limousine-ha-noi-mong-cai/
+15:38:05	Warning: 	Moved Permanently for https://motogo.vn/?p=154148
+15:38:05	Warning: 	File has moved from https://motogo.vn/?p=154148 to https://motogo.vn/xe-sai-gon-hue/
+15:39:42	Warning: 	Moved Permanently for https://motogo.vn/?p=153387
+15:39:42	Warning: 	File has moved from https://motogo.vn/?p=153387 to https://motogo.vn/xe-sai-gon-phu-yen/
+15:39:45	Warning: 	Moved Permanently for https://motogo.vn/?p=176204
+15:39:45	Warning: 	File has moved from https://motogo.vn/?p=176204 to https://motogo.vn/xe-limousine-ha-noi-tam-dao/
+15:40:01	Warning: 	Moved Permanently for https://motogo.vn/?p=153276
+15:40:01	Warning: 	File has moved from https://motogo.vn/?p=153276 to https://motogo.vn/xe-sai-gon-dak-lak/
+15:40:35	Warning: 	Moved Permanently for https://motogo.vn/?p=139745
+15:40:35	Warning: 	File has moved from https://motogo.vn/?p=139745 to https://motogo.vn/xe-ha-noi-tam-dao/
+15:40:45	Warning: 	Moved Permanently for https://motogo.vn/?p=154162
+15:40:45	Warning: 	File has moved from https://motogo.vn/?p=154162 to https://motogo.vn/xe-sai-gon-vinh-long/
+15:41:06	Warning: 	Moved Permanently for https://motogo.vn/?p=140853
+15:41:06	Warning: 	File has moved from https://motogo.vn/?p=140853 to https://motogo.vn/xe-ha-noi-quang-binh/
+15:41:34	Warning: 	Moved Permanently for https://motogo.vn/?p=137751
+15:41:34	Warning: 	File has moved from https://motogo.vn/?p=137751 to https://motogo.vn/xe-ha-noi-an-giang/
+15:41:50	Warning: 	Moved Permanently for https://motogo.vn/?p=137936
+15:41:50	Warning: 	File has moved from https://motogo.vn/?p=137936 to https://motogo.vn/xe-ha-noi-thanh-hoa/
+15:41:50	Warning: 	Moved Permanently for https://motogo.vn/?p=137264
+15:41:50	Warning: 	File has moved from https://motogo.vn/?p=137264 to https://motogo.vn/xe-ha-noi-sai-gon/
+15:41:55	Warning: 	Moved Permanently for https://motogo.vn/?p=138453
+15:41:55	Warning: 	File has moved from https://motogo.vn/?p=138453 to https://motogo.vn/xe-ha-noi-cam-ranh/
+15:41:55	Warning: 	Moved Permanently for https://motogo.vn/?p=138119
+15:41:55	Warning: 	File has moved from https://motogo.vn/?p=138119 to https://motogo.vn/xe-ha-noi-ba-ria-vung-tau/
+15:41:55	Warning: 	Moved Permanently for https://motogo.vn/?p=139166
+15:41:55	Warning: 	File has moved from https://motogo.vn/?p=139166 to https://motogo.vn/xe-ha-noi-rach-gia/
+15:41:55	Warning: 	Moved Permanently for https://motogo.vn/?p=138456
+15:41:55	Warning: 	File has moved from https://motogo.vn/?p=138456 to https://motogo.vn/xe-ha-noi-pleiku/
+15:42:01	Warning: 	Moved Permanently for https://motogo.vn/?p=239564
+15:42:01	Warning: 	File has moved from https://motogo.vn/?p=239564 to https://motogo.vn/nhung-dong-xe-may-tiet-kiem-xang-nhat/
+15:42:01	Warning: 	Moved Permanently for https://motogo.vn/?p=239520
+15:42:01	Warning: 	File has moved from https://motogo.vn/?p=239520 to https://motogo.vn/meo-tiet-kiem-xang-khi-su-dung-xe-may/
+15:42:01	Warning: 	Moved Permanently for https://motogo.vn/?p=239519
+15:42:01	Warning: 	File has moved from https://motogo.vn/?p=239519 to https://motogo.vn/meo-tranh-bi-lua-khi-sua-xe-may/
+15:42:01	Warning: 	Moved Permanently for https://motogo.vn/?p=239565
+15:42:01	Warning: 	File has moved from https://motogo.vn/?p=239565 to https://motogo.vn/thue-xe-may-co-phai-la-cach-giam-o-nhiem-moi-truong/
+15:42:01	Warning: 	Moved Permanently for https://motogo.vn/?p=239371
+15:42:01	Warning: 	File has moved from https://motogo.vn/?p=239371 to https://motogo.vn/huong-dan-sua-chua-va-bao-duong-xe-may-toan-dien-danh-cho-dan-phuot/
+15:42:01	Warning: 	Moved Permanently for https://motogo.vn/?p=237968
+15:42:01	Warning: 	File has moved from https://motogo.vn/?p=237968 to https://motogo.vn/mu-bao-hiem-danh-cho-di-phuot/
+15:42:01	Warning: 	Moved Permanently for https://motogo.vn/?p=239334
+15:42:01	Warning: 	File has moved from https://motogo.vn/?p=239334 to https://motogo.vn/tam-quan-trong-cua-viec-mac-do-bao-ho-khi-di-phuot-xe-may-2/
+15:42:01	Warning: 	Moved Permanently for https://motogo.vn/?p=239666
+15:42:01	Warning: 	File has moved from https://motogo.vn/?p=239666 to https://motogo.vn/tim-hieu-luat-giao-thong-duong-bo-viet-nam/
+15:42:01	Warning: 	Moved Permanently for https://motogo.vn/?p=62377
+15:42:01	Warning: 	File has moved from https://motogo.vn/?p=62377 to https://motogo.vn/phuot-da-nang/
+15:42:14	Warning: 	Moved Permanently for https://motogo.vn/?p=5033
+15:42:14	Warning: 	File has moved from https://motogo.vn/?p=5033 to https://motogo.vn/du-lich-da-nang-hoi-an-4n3d/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238368
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238368 to https://motogo.vn/kham-pha-tour-am-thuc-ha-noi-bang-xe-may/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238297
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238297 to https://motogo.vn/kham-pha-vung-nong-thon-xung-quanh-ha-noi-bang-xe-may/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238196
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238196 to https://motogo.vn/phuot-ha-noi-ba-vi-1-ngay-bang-xe-may/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=51694
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=51694 to https://motogo.vn/du-lich-gan-ha-noi-bang-xe-may/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238029
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238029 to https://motogo.vn/kinh-nghiem-phuot-ha-noi-tam-dao-1-ngay-bang-xe-may/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238053
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238053 to https://motogo.vn/phuot-ha-noi-ninh-binh-1-ngay-bang-xe-may/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238655
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238655 to https://motogo.vn/cam-nang-thue-xe-may-du-lich-phuot-thoa-thich/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238661
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238661 to https://motogo.vn/loi-ich-cua-thue-xe-may-so-voi-thue-o-to/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238917
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238917 to https://motogo.vn/cach-xu-ly-tai-nan-giao-thong-doi-voi-xe-may-di-thue/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=240572
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=240572 to https://motogo.vn/luu-y-ve-chi-phi-thue-xe-may-va-thoi-gian-cho-viec-thue-xe-may-chay-su-kien/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=240850
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=240850 to https://motogo.vn/cac-giai-dua-xe-may-tai-viet-nam/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=239116
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=239116 to https://motogo.vn/mau-xe-may-pho-bien-nhat-hien-nay/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=239131
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=239131 to https://motogo.vn/nhung-mau-xe-may-tot-nhat-di-trong-thanh-pho/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=240529
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=240529 to https://motogo.vn/huong-dan-thue-xe-may-de-kinh-doanh-dich-vu-va-cong-tac/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=239623
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=239623 to https://motogo.vn/bien-so-xe-may-cac-tinh-thanh-viet-nam/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=239563
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=239563 to https://motogo.vn/nhung-loi-giao-thong-thuong-gap-khi-di-xe-may/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=239518
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=239518 to https://motogo.vn/tim-hieu-bang-lai-xe-quoc-te/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=239503
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=239503 to https://motogo.vn/tim-hieu-ve-cac-bang-lai-xe-o-viet-nam/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=239304
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=239304 to https://motogo.vn/luat-giao-thong-duong-bo-danh-cho-nguoi-dieu-khien-xe-may/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=239286
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=239286 to https://motogo.vn/huong-dan-chon-lua-xe-may-phu-hop/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=239263
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=239263 to https://motogo.vn/co-nen-thue-xe-may-dien-khong/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=239249
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=239249 to https://motogo.vn/nhung-xe-may-di-phuot-tot-nhat-hien-nay/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238988
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238988 to https://motogo.vn/tim-hieu-ve-dong-xe-con-tay/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238960
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238960 to https://motogo.vn/thong-tin-ve-xe-may-so/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238298
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238298 to https://motogo.vn/ky-thuat-di-xe-tay-con/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238247
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238247 to https://motogo.vn/ky-thuat-dieu-khien-xe-may-khi-di-duong-doi-nui/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=237963
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=237963 to https://motogo.vn/phan-biet-cac-loai-mu-bao-hiem-xe-may/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=237202
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=237202 to https://motogo.vn/uu-nhuoc-diem-khi-thue-xe-may-vung-tau/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=237373
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=237373 to https://motogo.vn/nhung-luu-y-vang-cho-lan-dau-chinh-phuc-vung-tau-bang-xe-may/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=55738
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=55738 to https://motogo.vn/bien-bao-giao-thong/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=240095
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=240095 to https://motogo.vn/cung-duong-phuot-dep-nhat-mien-trung/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=240059
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=240059 to https://motogo.vn/cung-phuot-bang-xe-may-dep-nhat-viet-nam/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238248
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=238248 to https://motogo.vn/ky-thuat-vao-cua-an-toan-cho-xe-may/
+15:42:43	Warning: 	Moved Permanently for https://motogo.vn/?p=61996
+15:42:43	Warning: 	File has moved from https://motogo.vn/?p=61996 to https://motogo.vn/phuot-vung-tau/
+15:43:00	Warning: 	Moved Permanently for https://motogo.vn/?p=4470
+15:43:00	Warning: 	File has moved from https://motogo.vn/?p=4470 to https://motogo.vn/phuot-moc-chau-600k/
+15:43:00	Warning: 	Moved Permanently for https://motogo.vn/?p=63713
+15:43:00	Warning: 	File has moved from https://motogo.vn/?p=63713 to https://motogo.vn/phuot-cao-bang/
+15:43:10	Warning: 	Moved Permanently for https://motogo.vn/?p=63873
+15:43:10	Warning: 	File has moved from https://motogo.vn/?p=63873 to https://motogo.vn/phuot-a-pa-chai/
+15:43:10	Warning: 	Moved Permanently for https://motogo.vn/?p=45230
+15:43:10	Warning: 	File has moved from https://motogo.vn/?p=45230 to https://motogo.vn/phuot-tay-bac/
+15:43:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/deo-khau-pha/ (from https://motogo.vn/phuot-tay-bac/)
+15:43:29	Warning: 	Moved Permanently for https://motogo.vn/?p=238250
+15:43:29	Warning: 	File has moved from https://motogo.vn/?p=238250 to https://motogo.vn/gia-thue-xe-may-ha-noi-cap-nhat-moi-nhat/
+15:43:29	Warning: 	Moved Permanently for https://motogo.vn/?p=2120
+15:43:29	Warning: 	File has moved from https://motogo.vn/?p=2120 to https://motogo.vn/du-lich-bui-o-ha-noi/
+15:43:29	Warning: 	Moved Permanently for https://motogo.vn/?p=176165
+15:43:29	Warning: 	File has moved from https://motogo.vn/?p=176165 to https://motogo.vn/homestay-pho-co-ha-noi/
+15:44:03	Warning: 	Moved Permanently for https://motogo.vn/homestay-soc-son/
+15:44:03	Warning: 	File has moved from https://motogo.vn/homestay-soc-son/ to https://motogo.vn/homestay-soc-son-ha-noi/
+15:44:03	Warning: 	Moved Permanently for https://motogo.vn/?p=2099
+15:44:03	Warning: 	File has moved from https://motogo.vn/?p=2099 to https://motogo.vn/di-du-lich-ha-noi-cho-nao-dep/
+15:44:03	Warning: 	Moved Permanently for https://motogo.vn/?p=65231
+15:44:03	Warning: 	File has moved from https://motogo.vn/?p=65231 to https://motogo.vn/phuot-nha-trang/
+15:44:25	Warning: 	Moved Permanently for https://motogo.vn/?p=65210
+15:44:25	Warning: 	File has moved from https://motogo.vn/?p=65210 to https://motogo.vn/phuot-mien-tay/
+15:44:29	Warning: 	Moved Permanently for https://motogo.vn/?p=5490
+15:44:29	Warning: 	File has moved from https://motogo.vn/?p=5490 to https://motogo.vn/xe-yamaha/
+15:44:29	Warning: 	Moved Permanently for https://motogo.vn/?p=62924
+15:44:29	Warning: 	File has moved from https://motogo.vn/?p=62924 to https://motogo.vn/phuot-ta-xua/
+15:44:35	Warning: 	Moved Permanently for https://motogo.vn/?p=61072
+15:44:35	Warning: 	File has moved from https://motogo.vn/?p=61072 to https://motogo.vn/phuot-sapa/
+15:44:48	Warning: 	Moved Permanently for https://motogo.vn/?p=61246
+15:44:48	Warning: 	File has moved from https://motogo.vn/?p=61246 to https://motogo.vn/phuot-dem-ha-noi/
+15:44:52	Warning: 	Moved Permanently for https://motogo.vn/?p=61569
+15:44:52	Warning: 	File has moved from https://motogo.vn/?p=61569 to https://motogo.vn/phuot-phu-quoc/
+15:45:06	Warning: 	Moved Permanently for https://motogo.vn/?p=64163
+15:45:06	Warning: 	File has moved from https://motogo.vn/?p=64163 to https://motogo.vn/phuot-tay-nguyen/
+15:45:06	Warning: 	Moved Permanently for https://motogo.vn/?p=62775
+15:45:06	Warning: 	File has moved from https://motogo.vn/?p=62775 to https://motogo.vn/phuot-thang-8/
+15:45:30	Warning: 	Moved Permanently for https://motogo.vn/?p=62724
+15:45:30	Warning: 	File has moved from https://motogo.vn/?p=62724 to https://motogo.vn/phuot-mang-den/
+15:45:30	Warning: 	Moved Permanently for https://motogo.vn/?p=61076
+15:45:30	Warning: 	File has moved from https://motogo.vn/?p=61076 to https://motogo.vn/phuot/
+15:45:30	Warning: 	Moved Permanently for https://motogo.vn/?p=64004
+15:45:30	Warning: 	File has moved from https://motogo.vn/?p=64004 to https://motogo.vn/phuot-o-hue/
+15:45:37	Warning: 	Moved Permanently for https://motogo.vn/?p=63042
+15:45:37	Warning: 	File has moved from https://motogo.vn/?p=63042 to https://motogo.vn/phuot-nui-ba-den/
+15:45:37	Error: 	"Not Found" (404) at link https://motogo.vn/wp-content/uploads/2020/05/hang-hàm-rồng-trên-núi-bà-Đen-tây-ninh-6-1024x768-1.jpg (from https://motogo.vn/phuot-nui-ba-den/)
+15:45:38	Warning: 	Moved Permanently for https://motogo.vn/?p=62571
+15:45:38	Warning: 	File has moved from https://motogo.vn/?p=62571 to https://motogo.vn/phuot-y-ty/
+15:45:46	Warning: 	Moved Permanently for https://motogo.vn/?p=64631
+15:45:46	Warning: 	File has moved from https://motogo.vn/?p=64631 to https://motogo.vn/phuot-hon-son/
+15:45:46	Warning: 	Moved Permanently for https://motogo.vn/?p=50034
+15:45:46	Warning: 	File has moved from https://motogo.vn/?p=50034 to https://motogo.vn/phuot-moc-chau-bang-xe-may/
+15:45:46	Warning: 	Moved Permanently for https://motogo.vn/?p=2653
+15:45:46	Warning: 	File has moved from https://motogo.vn/?p=2653 to https://motogo.vn/dan-phuot-tu-tu-hao-den-xau-ho/
+15:45:46	Warning: 	Moved Permanently for https://motogo.vn/?p=61576
+15:45:46	Warning: 	File has moved from https://motogo.vn/?p=61576 to https://motogo.vn/phuot-dien-bien/
+15:45:49	Warning: 	Moved Permanently for https://motogo.vn/?p=41762
+15:45:49	Warning: 	File has moved from https://motogo.vn/?p=41762 to https://motogo.vn/deo-ma-pi-leng/
+15:45:49	Warning: 	Moved Permanently for https://motogo.vn/?p=49342
+15:45:49	Warning: 	File has moved from https://motogo.vn/?p=49342 to https://motogo.vn/kinh-nghiem-du-lich-ha-giang/
+15:46:07	Warning: 	Moved Permanently for https://motogo.vn/?p=49720
+15:46:07	Warning: 	File has moved from https://motogo.vn/?p=49720 to https://motogo.vn/du-lich-hoa-binh/
+15:46:11	Warning: 	Moved Permanently for https://motogo.vn/?p=59937
+15:46:11	Warning: 	File has moved from https://motogo.vn/?p=59937 to https://motogo.vn/ban-rom-soc-son/
+15:46:11	Warning: 	Moved Permanently for https://motogo.vn/?p=51113
+15:46:11	Warning: 	File has moved from https://motogo.vn/?p=51113 to https://motogo.vn/vinpearl-safari-phu-quoc/
+15:46:21	Warning: 	Moved Permanently for https://motogo.vn/?p=96707
+15:46:21	Warning: 	File has moved from https://motogo.vn/?p=96707 to https://motogo.vn/dac-san-ha-giang/
+15:46:21	Warning: 	Moved Permanently for https://motogo.vn/?p=35655
+15:46:21	Warning: 	File has moved from https://motogo.vn/?p=35655 to https://motogo.vn/du-lich-phu-quoc/
+15:46:43	Warning: 	Moved Permanently for https://motogo.vn/?p=238392
+15:46:43	Warning: 	File has moved from https://motogo.vn/?p=238392 to https://motogo.vn/nhung-tuyen-duong-dep-nhat-ha-noi/
+15:46:43	Warning: 	Moved Permanently for https://motogo.vn/?p=2269
+15:46:43	Warning: 	File has moved from https://motogo.vn/?p=2269 to https://motogo.vn/diem-du-lich-gan-ha-noi/
+15:46:52	Warning: 	Moved Permanently for https://motogo.vn/?p=2239
+15:46:52	Warning: 	File has moved from https://motogo.vn/?p=2239 to https://motogo.vn/dia-diem-du-lich-gan-ha-noi/
+15:47:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-content/uploads/2023/03/dia-diem-du-lich-gan-ha-noi-3-3.jpg (from https://motogo.vn/dia-diem-du-lich-gan-ha-noi/)
+15:47:14	Warning: 	Moved Permanently for https://motogo.vn/?p=2194
+15:47:14	Warning: 	File has moved from https://motogo.vn/?p=2194 to https://motogo.vn/di-du-lich-ha-noi-1-ngay-bang-xe-buyt/
+15:47:53	Warning: 	Moved Permanently for https://motogo.vn/?p=8513
+15:47:53	Warning: 	File has moved from https://motogo.vn/?p=8513 to https://motogo.vn/trang-an-ninh-binh/
+15:47:56	Warning: 	Moved Permanently for https://motogo.vn/?p=23246
+15:47:56	Warning: 	File has moved from https://motogo.vn/?p=23246 to https://motogo.vn/hang-mua-ninh-binh/
+15:48:03	Warning: 	Moved Permanently for https://motogo.vn/?p=10915
+15:48:03	Warning: 	File has moved from https://motogo.vn/?p=10915 to https://motogo.vn/ninh-binh-co-gi/
+15:48:03	Error: 	"Not Found" (404) at link https://motogo.vn/wp-content/uploads/2019/10/Tổng-quan-chùa-Bái-Đính.jpg (from https://motogo.vn/ninh-binh-co-gi/)
+15:48:03	Warning: 	Moved Permanently for https://motogo.vn/?p=10417
+15:48:03	Warning: 	File has moved from https://motogo.vn/?p=10417 to https://motogo.vn/homestay-ninh-binh/
+15:48:17	Error: 	Exit requested by shell or user
+15:48:18	Warning: 	File not added due to mirror cancel: https://motogo.vn/wp-content/uploads/2023/05/homestay-gan-chua-bai-dinh-ninh-binh-5.jpg
+15:48:18	Warning: 	File not added due to mirror cancel: https://motogo.vn/wp-content/uploads/2023/05/homestay-gan-chua-bai-dinh-ninh-binh-5.jpg
+15:48:18	Warning: 	File not added due to mirror cancel: https://motogo.vn/wp-content/uploads/2023/05/homestay-gan-chua-bai-dinh-ninh-binh-5.jpg
+15:48:18	Warning: 	File not added due to mirror cancel: https://motogo.vn/wp-content/uploads/2023/05/homestay-gan-chua-bai-dinh-ninh-binh-5.jpg
+15:48:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-json/wp/v2/posts/10247 (from https://motogo.vn/du-lich-ninh-binh/)
+15:48:18	Warning: 	Moved Permanently for https://motogo.vn/?p=10247
+15:48:18	Warning: 	File has moved from https://motogo.vn/?p=10247 to https://motogo.vn/du-lich-ninh-binh/
+15:48:18	Warning: 	Moved Permanently for https://motogo.vn/?p=10790
+15:48:18	Warning: 	File has moved from https://motogo.vn/?p=10790 to https://motogo.vn/ninh-binh-2-ngay-1-dem-2/
+15:48:18	Error: 	"Not Found" (404) at link https://motogo.vn/wp-content/uploads/2019/10/Khu-du-lịch-sinh-thái-hang-động-Tràng-An.jpg (from https://motogo.vn/ninh-binh-2-ngay-1-dem-2/)
+15:48:18	Warning: 	Moved Permanently for https://motogo.vn/?p=57773
+15:48:18	Warning: 	File has moved from https://motogo.vn/?p=57773 to https://motogo.vn/can-gio/
+15:48:19	Warning: 	Moved Permanently for https://motogo.vn/?p=51511
+15:48:19	Warning: 	File has moved from https://motogo.vn/?p=51511 to https://motogo.vn/lang-noi-tan-lap/
+15:48:19	Warning: 	Moved Permanently for https://motogo.vn/?p=58297
+15:48:19	Warning: 	File has moved from https://motogo.vn/?p=58297 to https://motogo.vn/dao-khi-can-gio/
+15:48:19	Warning: 	Moved Permanently for https://motogo.vn/?p=190880
+15:48:19	Warning: 	File has moved from https://motogo.vn/?p=190880 to https://motogo.vn/homestay-can-gio-sai-gon/
+15:48:20	Warning: 	Moved Permanently for https://motogo.vn/?p=50156
+15:48:20	Warning: 	File has moved from https://motogo.vn/?p=50156 to https://motogo.vn/dac-san-lang-co-duong-lam/
+15:48:20	Warning: 	Moved Permanently for https://motogo.vn/?p=2232
+15:48:20	Warning: 	File has moved from https://motogo.vn/?p=2232 to https://motogo.vn/du-lich-ha-noi-ba-vi/
+15:48:20	Warning: 	Moved Permanently for https://motogo.vn/?p=4473
+15:48:20	Warning: 	File has moved from https://motogo.vn/?p=4473 to https://motogo.vn/homestay-resort-ba-vi/
+15:48:21	Warning: 	Moved Permanently for https://motogo.vn/?p=50166
+15:48:21	Warning: 	File has moved from https://motogo.vn/?p=50166 to https://motogo.vn/an-gi-o-ba-vi/
+15:48:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://motogo.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmotogo.vn%2Fan-gi-o-ba-vi%2F (from https://motogo.vn/an-gi-o-ba-vi/)
+15:48:21	Warning: 	Moved Permanently for https://motogo.vn/?p=4659
+15:48:21	Warning: 	File has moved from https://motogo.vn/?p=4659 to https://motogo.vn/du-lich-ban-xoi/
+15:48:21	Warning: 	Moved Permanently for https://motogo.vn/?p=4785
+15:48:21	Warning: 	File has moved from https://motogo.vn/?p=4785 to https://motogo.vn/du-lich-dong-mo/
+15:48:21	Warning: 	Moved Permanently for https://motogo.vn/?p=51528
+15:48:21	Warning: 	File has moved from https://motogo.vn/?p=51528 to https://motogo.vn/doi-che-trai-tim-moc-chau/
+15:48:21	Warning: 	Moved Permanently for https://motogo.vn/?p=48681
+15:48:21	Warning: 	File has moved from https://motogo.vn/?p=48681 to https://motogo.vn/du-lich-mai-chau/
+15:48:21	Warning: 	Moved Permanently for https://motogo.vn/?p=39916
+15:48:21	Warning: 	File has moved from https://motogo.vn/?p=39916 to https://motogo.vn/du-lich-moc-chau-tu-tuc/
+15:48:21	Warning: 	Moved Permanently for https://motogo.vn/?p=66460
+15:48:21	Warning: 	File has moved from https://motogo.vn/?p=66460 to https://motogo.vn/homestay-moc-chau/
+15:48:22	Warning: 	Moved Permanently for https://motogo.vn/?p=52466
+15:48:22	Warning: 	File has moved from https://motogo.vn/?p=52466 to https://motogo.vn/lang-cu-lan-da-lat/
+15:48:22	Warning: 	Moved Permanently for https://motogo.vn/?p=53174
+15:48:22	Warning: 	File has moved from https://motogo.vn/?p=53174 to https://motogo.vn/dinh-bao-dai-da-lat/
+15:48:22	Warning: 	Moved Permanently for https://motogo.vn/?p=50642
+15:48:22	Warning: 	File has moved from https://motogo.vn/?p=50642 to https://motogo.vn/vuon-hoa-da-lat/
+15:48:22	Warning: 	Moved Permanently for https://motogo.vn/?p=51712
+15:48:22	Warning: 	File has moved from https://motogo.vn/?p=51712 to https://motogo.vn/thac-voi-da-lat/
+15:48:22	Warning: 	Moved Permanently for https://motogo.vn/?p=51692
+15:48:22	Warning: 	File has moved from https://motogo.vn/?p=51692 to https://motogo.vn/chua-linh-quy-phap-an/
+15:48:22	Warning: 	Moved Permanently for https://motogo.vn/?p=95734
+15:48:22	Warning: 	File has moved from https://motogo.vn/?p=95734 to https://motogo.vn/nong-trai-cun-puppy-farm/
+15:48:22	Warning: 	Moved Permanently for https://motogo.vn/?p=50386
+15:48:22	Warning: 	File has moved from https://motogo.vn/?p=50386 to https://motogo.vn/ga-da-lat/
+15:48:22	Warning: 	Moved Permanently for https://motogo.vn/?p=50482
+15:48:22	Warning: 	File has moved from https://motogo.vn/?p=50482 to https://motogo.vn/quang-truong-lam-vien/
+15:48:22	Warning: 	Moved Permanently for https://motogo.vn/?p=2365
+15:48:22	Warning: 	File has moved from https://motogo.vn/?p=2365 to https://motogo.vn/du-lich-ngoai-thanh-ha-noi-2-ngay/
+15:48:22	Warning: 	Moved Permanently for https://motogo.vn/?p=3380
+15:48:22	Warning: 	File has moved from https://motogo.vn/?p=3380 to https://motogo.vn/du-lich-tam-dao/
+15:48:22	Warning: 	Moved Permanently for https://motogo.vn/?p=2138
+15:48:22	Warning: 	File has moved from https://motogo.vn/?p=2138 to https://motogo.vn/du-lich-quanh-ha-noi-100km/
+15:48:22	Warning: 	Moved Permanently for https://motogo.vn/?p=4977
+15:48:22	Warning: 	File has moved from https://motogo.vn/?p=4977 to https://motogo.vn/du-lich-thung-nai/
+15:48:23	Warning: 	Moved Permanently for https://motogo.vn/?p=51681
+15:48:23	Warning: 	File has moved from https://motogo.vn/?p=51681 to https://motogo.vn/du-lich-sinh-thai-gan-ha-noi/
+15:48:23	Warning: 	Moved Permanently for https://motogo.vn/?p=3265
+15:48:23	Warning: 	File has moved from https://motogo.vn/?p=3265 to https://motogo.vn/dia-diem-du-lich-nghi-duong-da-ngoai-tai-ha-noi/
+15:48:23	Warning: 	Moved Permanently for https://motogo.vn/?p=51130
+15:48:23	Warning: 	File has moved from https://motogo.vn/?p=51130 to https://motogo.vn/nha-tho-con-ga/
+15:48:23	Warning: 	Moved Permanently for https://motogo.vn/?p=50999
+15:48:23	Warning: 	File has moved from https://motogo.vn/?p=50999 to https://motogo.vn/doi-che-cau-dat/
+15:48:23	Warning: 	Moved Permanently for https://motogo.vn/?p=50531
+15:48:23	Warning: 	File has moved from https://motogo.vn/?p=50531 to https://motogo.vn/hoa-da-quy-da-lat/
+15:48:23	Warning: 	Moved Permanently for https://motogo.vn/?p=53289
+15:48:23	Warning: 	File has moved from https://motogo.vn/?p=53289 to https://motogo.vn/cho-dem-da-lat/
+15:48:23	Warning: 	Moved Permanently for https://motogo.vn/?p=2226
+15:48:23	Warning: 	File has moved from https://motogo.vn/?p=2226 to https://motogo.vn/du-lich-ha-noi-mua-nao-dep-nhat/
+15:48:23	Warning: 	Moved Permanently for https://motogo.vn/?p=2319
+15:48:23	Warning: 	File has moved from https://motogo.vn/?p=2319 to https://motogo.vn/du-lich-ha-noi-thang-8/
+15:48:23	Warning: 	Moved Permanently for https://motogo.vn/?p=5551
+15:48:23	Warning: 	File has moved from https://motogo.vn/?p=5551 to https://motogo.vn/du-lich-ha-noi-thang-9/
+15:48:23	Warning: 	Moved Permanently for https://motogo.vn/?p=2355
+15:48:23	Warning: 	File has moved from https://motogo.vn/?p=2355 to https://motogo.vn/du-lich-ha-noi-ve-dem/
+15:48:23	Warning: 	Moved Permanently for https://motogo.vn/?p=2161
+15:48:23	Warning: 	File has moved from https://motogo.vn/?p=2161 to https://motogo.vn/du-lich-ha-noi-1-minh/
+15:48:24	Warning: 	Moved Permanently for https://motogo.vn/?p=2114
+15:48:24	Warning: 	File has moved from https://motogo.vn/?p=2114 to https://motogo.vn/du-lich-4-phuong-ha-noi/
+15:48:24	Error: 	Exit requested by shell or user
+15:48:24	Error: 	"" (-1) at link https://motogo.vn/?p=95937 (from https://motogo.vn/cho-tinh-ha-giang/)
+15:48:24	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 minutes 50 seconds : 15960 links scanned, 15230 files written (1400481306 bytes overall) [1288424711 bytes received at 371303 bytes/sec], 149491524 bytes transferred using HTTP compression in 2966 files, ratio 20%, 69.6 requests per connection
+(14 errors, 684 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
